@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KeybindHelperV2</string>
+
+
+    <string name="EditKeybind">Edit Keybind</string>
+
+
+    <string name="Name">Name</string>
+    <string name="EditKeybind1">Edit Keybind 1</string>
+    <string name="EditKeybind2">Edit Keybind 2</string>
+    <string name="EditKeybind3">Edit Keybind 3</string>
+</resources>

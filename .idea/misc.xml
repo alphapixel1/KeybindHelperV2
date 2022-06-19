@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/drawable/add.xml" value="0.3195" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/drawable/clear.xml" value="0.3195" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/drawable/copy.xml" value="0.3195" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/drawable/delete.xml" value="0.3195" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/drawable/eye.xml" value="0.3195" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/drawable/hamburger_menu.xml" value="0.3195" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.3195" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/drawable/menu.xml" value="0.3195" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/drawable/send.xml" value="0.3195" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/drawable/up_down_arrow.xml" value="0.3195" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/layout/activity_main.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/layout/app_bar_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/layout/edit_keybind_dialog.xml" value="0.5546875" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/layout/group_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/layout/group_menu.xml" value="0.5546875" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/layout/keybind_settings_dialog.xml" value="0.5546875" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/layout/keybind_view.xml" value="0.5546875" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/layout/move_item_dialog.xml" value="0.5546875" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/layout/project_view.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Nick/AndroidStudioProjects/KeybindHelperV2/app/src/main/res/layout/promptdialog.xml" value="0.6478102189781022" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
